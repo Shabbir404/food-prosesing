@@ -1,85 +1,180 @@
 #skip{
 
-color: #FC8D48;
+    color: #FC8D48;
+    
+    }
+    .half-widht h1{
+    
+    
+        font-size:65px;
+    
+    font-family:  'Roboto', sans-serif;
+    
+    color: #575757;
+    
+    }
+    
+    
+    
+    .half-widht{
+    
+    width: 50%;
+    padding-left: 100px;
+    
+    }
+    
+    .Introduction{
+    display: flex;
+    margin-top: 76px;
+    
+    }
+    
+    #service-Introduction{
+    
+    font-size: 17px;
+    font-family:  'Roboto', sans-serif;
+    width: 390px;
+    color: #888888;
+    letter-spacing: 0.1;
+    margin-bottom: 52px;
+    }
+    
+    .half-widht a{
+    
+    text-decoration: none;
+    font-size: 20px;
+    font-family:'Roboto', sans-serif;
+    background-image: linear-gradient(rgb(251, 134, 0),rgb(255, 81, 0));
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 50px;
+    font-size: 25px;
+    color:white;
+    }
+    .about-the-company{
+    background-image: url(pk.jpg);
+    
+    display: flex;
+    margin-bottom: 80px;
+    }
+    
+    #iamge{
+    
+    height: 400px;
+    width: 200px;
+    
+    
+    }
+    #about-me{
+    
+    color: #707070;
+    font-family:'Roboto', sans-serif ;
+    font-size: 50px;
+    font-weight: 550px;
+    }
+    
+    #about{
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    padding-right: 125px;
+    font-weight: 200px;
+    }
+    
+    #recipi{
+        color: #707070;
+    
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500px;
+    letter-spacing: 1px;
+    font-size: 36px;
+    margin-bottom: 20px;
+    }
+    #food-menu{
+    color:#4b4747 ;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-bottom: 50px;
+    
+    }
+  
 
-}
-.half-widht h1{
+  
+
+        .food-sizing {
+            box-shadow: -3px -4px 20px #dadada;
+            width: 15%;height: 350px;
+            margin-left: 180px;
+            padding-left: -1px;
+            padding: 15px;
+            border-radius: 22px;
+            margin-bottom: 110px;
+
+        }
 
 
-    font-size:65px;
+    .food-sizing img{
 
-font-family:  'Roboto', sans-serif;
+        height:155px;
 
-color: #575757;
+        width: 99%;
 
-}
+        }
 
+.food-sizing h2{
 
-
-.half-widht{
-
-width: 50%;
-padding-left: 100px;
-
-}
-
-.Introduction{
-display: flex;
-margin-top: 76px;
-
-}
-
-#service-Introduction{
-
-font-size: 17px;
-font-family:  'Roboto', sans-serif;
-width: 390px;
-color: #888888;
-letter-spacing: 0.1;
-margin-bottom: 52px;
-}
-
-.half-widht a{
-
-text-decoration: none;
-font-size: 20px;
-font-family:'Roboto', sans-serif;
-background-image: linear-gradient(rgb(251, 134, 0),rgb(255, 81, 0));
-padding-left: 23px;
-padding-right: 23px;
-padding-top: 15px;
-padding-bottom: 15px;
-border-radius: 50px;
-font-size: 25px;
-color:white;
-}
-.about-the-company{
-background-image: url(pk.jpg);
-
-display: flex;
-margin-bottom: 80px;
-}
-
-#iamge{
-
-height: 400px;
-width: 200px;
-
-
-}
-#about-me{
-
-color: #707070;
 font-family:'Roboto', sans-serif ;
-font-size: 50px;
-font-weight: 550px;
+font-size: 29px;
+}
+.food-sizing p{
+
+    font-family:'Roboto', sans-serif ;
+
+
+}
+.styled-bannar{
+
+
+display: flex;}
+
+
+#bannar-pic-resize{
+
+    
+        width: 235px;
+        height: 155px;
+        border-radius: 14px;
+  
 }
 
-#about{
+.last-shap span{
 
-font-family: 'Roboto', sans-serif;
-font-size: 18px;
-padding-right: 125px;
-font-weight: 200px;
+color: orange;
+letter-spacing: 3.1px;
 }
 
+.last-shap h3{
+
+color: #b3afaf ;
+
+
+
+}
+.last-shap{
+
+text-align: center;
+background-color: #0B0D17;
+height: 250px;
+}
+.last-shap h1{
+
+color:#4b4747 ;
+font-family:'Roboto', sans-serif  ;
+
+
+}
